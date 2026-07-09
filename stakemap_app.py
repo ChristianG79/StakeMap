@@ -16,6 +16,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 from i18n import I18n
 
+VERSION = "0.0.1"
 
 VIEWS = ["Spherical", "3D Scatter", "2D Matrix"]
 SETTINGS_FILE = os.path.join(
@@ -1272,7 +1273,7 @@ class StakeMapApp:
     def _show_about(self):
         messagebox.showinfo(
             self.i18n.t("about"),
-            self.i18n.t("about_text"),
+            self.i18n.t("about_text", version=VERSION),
         )
 
     # ── Run ───────────────────────────────────────────────

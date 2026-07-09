@@ -96,7 +96,7 @@
     "export_error": "Export error",
     "file_open_error": "Failed to open file:\n{err}",
     "file_save_error": "Failed to save file:\n{err}",
-    "about_text": "StakeMap v1.2\n3D Stakeholder Mapping\n\nVisualize and analyze stakeholder relationships in 3D, 2D matrix, and spherical views.\n\nCtrl+N  New  |  Ctrl+O  Open  |  Ctrl+S  Save",
+    "about_text": "StakeMap {version}\n3D Stakeholder Mapping\n\nVisualize and analyze stakeholder relationships in 3D, 2D matrix, and spherical views.\n\nCtrl+N  New  |  Ctrl+O  Open  |  Ctrl+S  Save",
     "categories": {
         "Internal": "Internal",
         "External": "External",

@@ -96,7 +96,7 @@
     "export_error": "Erreur d\u2019exportation",
     "file_open_error": "\u00c9chec d\u2019ouverture du fichier\u00a0:\n{err}",
     "file_save_error": "\u00c9chec d\u2019enregistrement du fichier\u00a0:\n{err}",
-    "about_text": "StakeMap v1.2\nCartographie 3D des parties prenantes\n\nVisualisez et analysez les relations entre parties prenantes en 3D, en matrice 2D et en vue sph\u00e9rique.\n\nCtrl+N  Nouveau  |  Ctrl+O  Ouvrir  |  Ctrl+S  Enregistrer",
+    "about_text": "StakeMap {version}\nCartographie 3D des parties prenantes\n\nVisualisez et analysez les relations entre parties prenantes en 3D, en matrice 2D et en vue sph\u00e9rique.\n\nCtrl+N  Nouveau  |  Ctrl+O  Ouvrir  |  Ctrl+S  Enregistrer",
     "categories": {
         "Internal": "Interne",
         "External": "Externe",

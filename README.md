@@ -1,4 +1,4 @@
-# StakeMap — 3D Stakeholder Mapping
+# StakeMap — 3D Stakeholder Mapping (v0.0.1)
 
 Visualize and analyze stakeholder relationships in 3D, 2D matrix, and spherical views.
 

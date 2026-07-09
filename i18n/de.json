@@ -96,7 +96,7 @@
     "export_error": "Exportfehler",
     "file_open_error": "Fehler beim \u00d6ffnen der Datei:\n{err}",
     "file_save_error": "Fehler beim Speichern der Datei:\n{err}",
-    "about_text": "StakeMap v1.2\n3D-Stakeholder-Mapping\n\nVisualisieren und analysieren Sie Stakeholder-Beziehungen in 3D-, 2D-Matrix- und Kugelansichten.\n\nStrg+N  Neu  |  Strg+O  \u00d6ffnen  |  Strg+S  Speichern",
+    "about_text": "StakeMap {version}\n3D-Stakeholder-Mapping\n\nVisualisieren und analysieren Sie Stakeholder-Beziehungen in 3D-, 2D-Matrix- und Kugelansichten.\n\nStrg+N  Neu  |  Strg+O  \u00d6ffnen  |  Strg+S  Speichern",
     "categories": {
         "Internal": "Intern",
         "External": "Extern",
